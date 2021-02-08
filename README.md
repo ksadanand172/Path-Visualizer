@@ -1,6 +1,6 @@
 # Pathfinding Visualizer Application
 
-Welcome to path visualizer Web-Applicaion! I am a newbie in web development and this is my first web-dev project, I got a lot of exposure about buliding a single page website with reactApp. This project is inspired by @clementmihailescu.
+Welcome to path visualizer Web-Application! I am a newbie in web development and this is my first web-dev project, but I got a lot of exposure about buliding a single page website with reactApp. This project is inspired by @clementmihailescu.
 >You can check the website here: (https://mypath-website.web.app/)
 
 ### Dijkstra's Algorithm is used:
