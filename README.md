@@ -1,3 +1,12 @@
+# Pathfinding Visualizer Application
+
+Welcome to path visualizer Web-Applicaion! I am newbie in web development and this is my first web-dev project, I got a lot of exposure about buliding a single page website with reactApp. This project is inspired by @clementmihailescu.
+>>You can check the website here: (https://mypath-website.web.app/)
+
+### Dijkstra's Algorithm is used:
+
+It is weighted path finding Algorithm and guarantees the shortest path.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
